@@ -16,8 +16,8 @@ Btw, We have forked this code to avoid sharing sensitive data
 
 <img width="1439" alt="Screen Shot 2022-09-11 at 9 31 33 PM" src="https://user-images.githubusercontent.com/40225095/189559190-39ea9a22-b130-4cd0-b69d-3197295fcfac.png">
 
-## Quick Start<img width="1439" alt="Screen Shot 2022-09-11 at 9 30 12 PM" src="https://user-images.githubusercontent.com/40225095/189559083-ae076d6c-1c53-46a3-b668-c1609cda539d.png">
-
+<img width="1439" alt="Screen Shot 2022-09-11 at 9 30 12 PM" src="https://user-images.githubusercontent.com/40225095/189559083-ae076d6c-1c53-46a3-b668-c1609cda539d.png">
+## Quick Start
 
 ```bash
 # Clone the repository
