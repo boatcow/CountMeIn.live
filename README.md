@@ -5,11 +5,6 @@ Right now, your data is being shared without your direct control and you don’t
 
 You can check a website here: http://count-me-in.live
 
-Btw, We have forked this code to avoid sharing sensitive data
-
-# Commit history
-<img width="307" alt="Screen Shot 2022-09-11 at 9 26 11 PM" src="https://user-images.githubusercontent.com/40225095/189558840-65078c47-00ad-43fc-bf2c-1422058ae9b9.png">
-<img width="1375" alt="Screen Shot 2022-09-11 at 9 24 58 PM" src="https://user-images.githubusercontent.com/40225095/189558761-815d6178-9313-4320-9959-fcf291bc3f1c.png">
 
 # Platform images
 <img width="1439" alt="Screen Shot 2022-09-11 at 9 29 47 PM" src="https://user-images.githubusercontent.com/40225095/189559057-1546c547-b0e4-4ec7-8ef4-ca1908801902.png">
